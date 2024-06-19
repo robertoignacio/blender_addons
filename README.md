@@ -1,2 +1,2 @@
 # blender_addons
-python scripts for blender 3, 4
+some python scripts for blender 3, 4
